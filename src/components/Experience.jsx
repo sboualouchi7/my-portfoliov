@@ -9,7 +9,7 @@ const Experience = () => {
       company: 'Wafr',
       location: 'Casablanca',
       period: 'Mai 2025 - Présent',
-      type: 'Stage',
+      type: 'CDI',
       description: 'Développement d\'une console B2B de gestion financière pour plateforme de top-up management',
       achievements: [
         'Interface d\'administration React.js/Material-UI avec gestion multi-rôles et workflow d\'approbation des dépôts',
